@@ -149,8 +149,7 @@ public void dijkstra(String inicio) {
 }
 
 📤 Saída gerada no console
-mathematica
-Copiar código
+
 === GRAFO ===
 A -> B(5) C(2)
 B -> A(5) D(4)
